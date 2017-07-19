@@ -1,0 +1,9 @@
+/build
+.externalNativeBuild
+.DS_Store
+/local.properties
+.gradle
+/libs/*/*.so
+/libs/*.jar
+/src/main/assets/*.pb
+/src/main/assets/*.model
